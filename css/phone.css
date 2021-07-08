@@ -1,0 +1,69 @@
+/* Navigation Section */
+#navbar{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 7px;
+    padding-bottom: 2px;
+}
+
+/* Home Section */
+#home{
+    height: 280px;    
+}
+
+.btn{
+    font-size: 13px;
+    padding: 2px 6px;
+}
+
+#home::before{
+    height: 350px;
+}
+
+#home .y{
+    font-size: 12px;
+}
+
+#home .h{
+    font-size: 24px;
+}
+
+/* Tourist Section */
+#tourist{
+flex-direction: column;
+}
+
+#tourist .box{
+    margin: 12px;
+
+}
+
+#tourist-container .h-primary{
+    font-size: 24px;
+}
+
+.box .h-secondary{
+    font-size: 21px;
+}
+/* Sponser Section */
+#sponser{
+   flex-wrap: wrap;
+}
+
+#sponser img{
+    width: 66px;
+    padding:10px 56px;
+}
+
+
+/* Contact Section */
+label{
+    font-size: 13px;
+}
+
+/* Footer Section */
